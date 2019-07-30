@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/P7_SPEED_Cpp.dir/Speed.cpp.o  -o ../../../Binaries/P7_SPEED_Cpp -Wl,-rpath,/home/jimmyteng/Documents/libP7Client_v5.2/Binaries ../../../Binaries/libP7.so -lpthread -ldl -lrt 

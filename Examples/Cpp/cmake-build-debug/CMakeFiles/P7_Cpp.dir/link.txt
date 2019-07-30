@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/P7_Cpp.dir/Main.cpp.o  -o P7_Cpp -lP7 -lpthread -ldl -lrt 
