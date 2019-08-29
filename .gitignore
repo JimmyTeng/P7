@@ -1,0 +1,47 @@
+# Created by .ignore support plugin (hsz.mobi)
+### CMake template
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+将删除 bin/
+将删除 cmake-build-debug/examples/Cpp/P7_Cpp_Example.cbp
+将删除 cmake-build-debug/tests/Speed/P7_SPEED_Cpp.cbp
+将删除 cmake-build-debug/tests/Trace/P7_Test_Cpp.cbp
+将删除 cmake-build-minsizerel/Examples/Cpp/P7_Cpp_Example.cbp
+将删除 cmake-build-minsizerel/P7.cbp
+将删除 cmake-build-minsizerel/Tests/Speed/P7_SPEED_Cpp.cbp
+将删除 cmake-build-minsizerel/Tests/Trace/P7_Test_Cpp.cbp
+将删除 cmake-build-minsizerel/examples/Cpp/P7_Cpp_Example.cbp
+将删除 cmake-build-minsizerel/tests/Speed/P7_SPEED_Cpp.cbp
+将删除 cmake-build-minsizerel/tests/Trace/P7_Test_Cpp.cbp
+将删除 cmake-build-release/Examples/Cpp/P7_Cpp_Example.cbp
+将删除 cmake-build-release/P7.cbp
+将删除 cmake-build-release/Tests/Speed/P7_SPEED_Cpp.cbp
+将删除 cmake-build-release/Tests/Trace/P7_Test_Cpp.cbp
+将删除 cmake-build-release/examples/Cpp/P7_Cpp_Example.cbp
+将删除 cmake-build-release/tests/Speed/P7_SPEED_Cpp.cbp
+将删除 cmake-build-release/tests/Trace/P7_Test_Cpp.cbp
+将删除 cmake-build-release_cross/Examples/Cpp/P7_Cpp_Example.cbp
+将删除 cmake-build-release_cross/P7.cbp
+将删除 cmake-build-release_cross/Tests/Speed/P7_SPEED_Cpp.cbp
+将删除 cmake-build-release_cross/Tests/Trace/P7_Test_Cpp.cbp
+将删除 cmake-build-release_cross/examples/Cpp/P7_Cpp_Example.cbp
+将删除 cmake-build-release_cross/tests/Speed/P7_SPEED_Cpp.cbp
+将删除 cmake-build-release_cross/tests/Trace/P7_Test_Cpp.cbp
+将删除 cmake-build-relwithdebinfo/Examples/Cpp/P7_Cpp_Example.cbp
+将删除 cmake-build-relwithdebinfo/P7.cbp
+将删除 cmake-build-relwithdebinfo/Tests/Speed/P7_SPEED_Cpp.cbp
+将删除 cmake-build-relwithdebinfo/Tests/Trace/P7_Test_Cpp.cbp
+将删除 cmake-build-relwithdebinfo/examples/Cpp/P7_Cpp_Example.cbp
+将删除 cmake-build-relwithdebinfo/tests/Speed/P7_SPEED_Cpp.cbp
+将删除 cmake-build-relwithdebinfo/tests/Trace/P7_Test_Cpp.cbp
+将删除 lib/
